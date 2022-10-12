@@ -14,7 +14,7 @@
 
 | Name                          | Email       | Github Username |
 | ----------------------------- | ----------- | --------------- |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username    |
+| [Emma Jordan](https://github.com/ejayjordan) | EMAIL address  | username    |
 | [First Name , Last Name](Link to github page) | EMAIL address   | username     |
 | [First Name , Last Name](Link to github page) | EMAIL address  | username   |
 
