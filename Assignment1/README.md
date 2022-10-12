@@ -12,11 +12,11 @@
 
 #### Group Members
 
-| Name                          | Email       | Github Username |
-| ----------------------------- | ----------- | --------------- |
-| [Emma Jordan](https://github.com/ejayjordan) | EMAIL address  | username    |
-| [First Name , Last Name](Link to github page) | EMAIL address   | username     |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username   |
+| Name                          | Email               | Github Username |
+| ----------------------------- |---------------------|-----------------|
+| [Emma Jordan](https://github.com/ejayjordan) | emma.jordan@bsu.edu | ejayjordan      |
+| [First Name , Last Name](Link to github page) | EMAIL address       | username        |
+| [First Name , Last Name](Link to github page) | EMAIL address       | username        |
 
 #### Project Files
 
